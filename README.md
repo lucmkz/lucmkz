@@ -1,9 +1,9 @@
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
 
-Welcome !!
+Welcome, im Lucas 👻 !!
 
-- 🔭 I’m currently working on [Hexagon](https://hexagon.com.br/), ReactJs and TypeScript.
-- 🌱 I’m currently learning more about backend, with Node and .Net.
+- 🔭 I’m currently working on [Hexagon](https://hexagon.com.br/), [ReactJs](https://pt-br.reactjs.org/) and [TypeScript](https://www.typescriptlang.org/).
+- 🌱 I’m currently learning more about backend, with [Node](https://nodejs.org/en/) and [.Net](https://docs.microsoft.com/pt-br/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework).
 - 💬 Ask me about anything!
-- 📫 To reach me, just let in on lucaswebs.com, and send my a email or a WhatsApp mesage(better 😝) 
+- 📫 To reach me, just let in on, and send my a email or a WhatsApp mesage(better 😝) 
 
