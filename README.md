@@ -15,3 +15,5 @@ Welcome, im Lucas 👻 !!
     <img alt="Github Pages" src="https://imagens.canaltech.com.br/empresas/638.400.jpg" width="80">
   </a>
   </p>
+
+Keep in touch
