@@ -16,4 +16,4 @@ Welcome, im Lucas 👻 !!
   </a>
   </p>
 
-Keep in touch ✌🏻✌🏻
+Keep in touch ✌🏻
