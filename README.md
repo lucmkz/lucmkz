@@ -3,7 +3,7 @@
 Welcome, im Lucas 👻 !!
 
 - 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br/), with [ReactJs](https://pt-br.reactjs.org/) and [Node](https://nodejs.org/en/) with [Type](https://www.typescriptlang.org/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-- 🌱 I’m currently learning more about backend, with [Node](https://nodejs.org/en/) and [.Net](https://docs.microsoft.com/pt-br/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework) but mainly studying TypeScript.
+- 🌱 I’m currently learning more about [Java](https://www.java.com), [GoLang](https://golang.org/), and more.
 - 💬 Ask me about anything [here](https://api.whatsapp.com/send?phone=5511982116039)
 - 📫 To reach me, send me a [message](https://api.whatsapp.com/send?phone=5511982116039) or a [e-mail](mailto:l.duarte.mk@gmail.com)
   
