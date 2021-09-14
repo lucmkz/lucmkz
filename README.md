@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
-
 Welcome, im Lucas 👻 !!
+
+[![lucmkz](https://github-readme-stats.vercel.app/api?username=lucmkz&theme=tokyonight)](https://github.com/lucmkz/)
 
 - 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br/), with [ReactJs](https://pt-br.reactjs.org/) and [Node](https://nodejs.org/en/) with [Type](https://www.typescriptlang.org/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 - 🌱 I’m currently learning more about [Java](https://www.java.com), [GoLang](https://golang.org/), and more.
