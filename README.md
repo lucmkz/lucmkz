@@ -11,7 +11,7 @@ Welcome, im Lucas 👻 !!
   <a href="mailto:l.duarte.mk@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="linkedin.com/in/lucmkz" alt="Linkedin" target='_blank'>
+  <a href="https://www.linkedin.com/in/lucmkz" alt="Linkedin" target='_blank'>
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511982116039" alt="WhatsApp">
